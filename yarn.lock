@@ -5283,7 +5283,26 @@ prettier-eslint-cli@5.0.0:
     rxjs "^6.5.2"
     yargs "^13.2.4"
 
-prettier-eslint@9.0.0, prettier-eslint@^9.0.0:
+prettier-eslint@9.0.2:
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/prettier-eslint/-/prettier-eslint-9.0.2.tgz#66c7b5d2a35712a104f6b7ce31f470ea9f8cb6a6"
+  integrity sha512-u6EQqxUhaGfra9gy9shcR7MT7r/2twwEfRGy1tfzyaJvLQwSg34M9IU5HuF7FsLW2QUgr5VIUc56EPWibw1pdw==
+  dependencies:
+    "@typescript-eslint/parser" "^1.10.2"
+    common-tags "^1.4.0"
+    core-js "^3.1.4"
+    dlv "^1.1.0"
+    eslint "^5.0.0"
+    indent-string "^4.0.0"
+    lodash.merge "^4.6.0"
+    loglevel-colored-level-prefix "^1.0.0"
+    prettier "^1.7.0"
+    pretty-format "^23.0.1"
+    require-relative "^0.8.7"
+    typescript "^3.2.1"
+    vue-eslint-parser "^2.0.2"
+
+prettier-eslint@^9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/prettier-eslint/-/prettier-eslint-9.0.0.tgz#b9a6ecb67c69be43cbd598addf7ff0b6753e6999"
   integrity sha512-0dael2aMpMAxAwClnLi2Coc30v3BubsTX6clqseZ8NFCJZnbZlwxZGHHESYBlqTyN9lvZDHHv+XdeHW0fKhxJQ==
