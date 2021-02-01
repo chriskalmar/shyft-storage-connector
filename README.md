@@ -13,6 +13,13 @@
 [![npm version](https://badge.fury.io/js/shyft-storage-connector.svg)](https://badge.fury.io/js/shyft-storage-connector)
 [![codecov](https://codecov.io/gh/chriskalmar/shyft-storage-connector/branch/master/graph/badge.svg)](https://codecov.io/gh/chriskalmar/shyft-storage-connector)
 
+--- 
+
+⚠️ **This connector has been integrated fully into Shyft, thus this repo is being discontinued. Check out the new version of [Shyft](https://github.com/chriskalmar/shyft) instead!** ⚠️
+
+
+--- 
+
 
 This is a storage connector for Shyft (currently only Postgres support)
 
