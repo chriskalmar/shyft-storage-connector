@@ -85,7 +85,7 @@
     "rimraf": "3.0.2",
     "shyft": "0.8.0",
     "sqlite3": "5.0.0",
-    "typeorm": "0.2.28"
+    "typeorm": "0.2.30"
   },
   "dependencies": {
     "dataloader": "^2.0.0",
